@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "setsmp.falix.gg",
-    "port": 21002,
+    "ip": "setsmp.aternos.me",
+    "port": 47374,
     "version": "",
     "try-creative": false
   },
