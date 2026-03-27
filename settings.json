@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chreeskds.freezehost.com",
-    "port": 9244,
+    "ip": "chreekds.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
