@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "iamgonehere",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Chreessmp.join-mc.net",
-    "port": 25565,
+    "port": 14072,
     "version": "",
     "try-creative": false
   },
